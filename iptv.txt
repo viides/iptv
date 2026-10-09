@@ -1,0 +1,34 @@
+﻿央视,#genre#
+CCTV-1 综合,https://pi.0472.org/hls/cctv1.m3u8
+CCTV-2 财经,https://pi.0472.org/hls/cctv2.m3u8
+CCTV-3 综艺,https://pi.0472.org/hls/cctv3.m3u8
+CCTV-4 中文国际,https://pi.0472.org/hls/cctv4.m3u8
+CCTV-5 体育,https://pi.0472.org/hls/cctv5.m3u8
+CCTV-5+ 体育赛事,https://pi.0472.org/hls/cctv5p.m3u8
+CCTV-6 电影,https://pi.0472.org/hls/cctv6.m3u8
+CCTV-7 国防军事,https://pi.0472.org/hls/cctv7.m3u8
+CCTV-8 电视剧,https://pi.0472.org/hls/cctv8.m3u8
+CCTV-9 纪录,https://pi.0472.org/hls/cctv9.m3u8
+CCTV-10 科教,https://pi.0472.org/hls/cctv10.m3u8
+CCTV-11 戏曲,https://pi.0472.org/hls/cctv11.m3u8
+CCTV-12 社会与法,https://pi.0472.org/hls/cctv12.m3u8
+CCTV-13 新闻,https://pi.0472.org/hls/cctv13.m3u8
+CCTV-14 少儿,https://pi.0472.org/hls/cctv14.m3u8
+CCTV-15 音乐,https://pi.0472.org/hls/cctv15.m3u8
+CCTV-16 奥林匹克,https://pi.0472.org/hls/cctv16.m3u8
+CCTV-17 农业农村,https://pi.0472.org/hls/cctv17.m3u8
+CCTV-4K 超高清,https://pi.0472.org/hls/cctv4k.m3u8
+CCTV-16 4K,https://pi.0472.org/hls/cctv164k.m3u8
+
+河北及承德,#genre#
+河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
+河北公共,http://weblive.hebtv.com/live/hbgg_bq/index.m3u8
+河北农民,http://weblive.hebtv.com/live/nmpd_bq/index.m3u8
+河北少儿,http://weblive.hebtv.com/live/hbse_bq/index.m3u8
+河北影视,http://weblive.hebtv.com/live/hbys_bq/index.m3u8
+河北经济,http://weblive.hebtv.com/live/hbjj_bq/index.m3u8
+河北都市,http://weblive.hebtv.com/live/hbds_bq/index.m3u8
+承德新闻综合,https://jwliveqxzb.hebyun.com.cn/cdsxwzhtv/cdsxwzhtv.m3u8
+承德新闻综合,https://jwcdnqx.hebyun.com.cn/live/cdsxwzhtv/1500k/tzwj_video.m3u8
+承德公共生活,https://jwliveqxzb.hebyun.com.cn/cdsggshtv/cdsggshtv.m3u8
+承德公共生活,https://jwcdnqx.hebyun.com.cn/live/cdsggshtv/1500k/tzwj_video.m3u8
